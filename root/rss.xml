@@ -1,0 +1,19 @@
+<rss version="2.0">
+    <channel>
+        <title>W-FIT GYM - novosti</title>
+        <link>https://martinakracunovic.github.io/wfit/index.html</link>
+        <description>Informacije o novostima na sajtu.</description>
+    <item>
+        <title>Usluge - novosti</title>
+        <link>https://martinakracunovic.github.io/wfit/usluge.html</link>
+        <description>Informacije o novim cenama</description>
+    </item>
+
+    <item>
+        <title>Kontakt - novosti</title>
+        <link>https://martinakracunovic.github.io/wfit/kontakt.html</link>
+        <description>Promena parametara za prijavu</description>
+    </item>
+
+    </channel>
+</rss>
