@@ -887,3 +887,6 @@ color:#e6ebe7;
 .telefon{
   margin: 10px 0px;
 }
+#ikonefuter li{
+  display: inline-block;
+}
